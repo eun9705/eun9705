@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi!%20I'm%20EunKyoung&fontColor=F3EDFC&height=400)
+<div align="center">✨Welcome to my GitHub!</div>
